@@ -1,0 +1,3 @@
+Kamran10,abc123,Kamran,Ahmed,19/November/1998,kamran.ahmed@northsouth.edu,1,1000,0
+Atif31,atif123,Atif,Karim,15/June/1998,atif.karim@northsouth.edu,4,2000,0
+A.K.M.Bahalul12,abh321,A. K. M. Bahalul,Haque,08/February/1979,abh3@northsouth.edu,1,1000,0
